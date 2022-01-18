@@ -19,6 +19,7 @@ body {
 
 .intro-chunk {
   padding: 16px;
+  max-width: 425px;
 }
 
 .title {
